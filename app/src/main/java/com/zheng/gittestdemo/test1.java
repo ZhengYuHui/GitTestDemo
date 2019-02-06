@@ -6,7 +6,12 @@ public class test1 {
         return i + j;
     }
 
+    public static int addNum2(int i, int j) {
+        return i + j;
+    }
+
     public static int addNum3(int i, int j) {
         return i + j;
     }
+
 }
